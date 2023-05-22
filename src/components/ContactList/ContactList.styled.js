@@ -15,6 +15,7 @@ export const ContactsItem = styled.li`
     font-size: 14px;
     color: #666;
   }
+
   .bnt-name {
     width: 70px;
     border: none;
